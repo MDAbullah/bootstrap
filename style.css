@@ -1,0 +1,11 @@
+.menu-item{
+    color: rgb(7, 7, 7) !important;
+ margin-left: 20px;
+}
+.menu{
+margin-left: 400px;
+}
+.menu-item:hover{
+    color: rgba(0, 145, 255, 0.737) !important;
+    transition: 0.5s;
+}
